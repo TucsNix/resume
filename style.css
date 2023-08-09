@@ -276,6 +276,11 @@ body {
 	align-content: center;
 	justify-content: center;
 }
+
+.project-list, .favor-list{
+	padding: 0;
+}
+
 .project-list > li {
 	display: flex;
 	flex: 1 0 0;
